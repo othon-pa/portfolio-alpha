@@ -1,0 +1,27 @@
+:root {
+  --color-bg: #1a1824;
+  --color-bg-light: #e0dff4;
+  --color-bg-alt: #302c3f;
+  --color-disabled: #6f6e85;
+  --color-text-light: #e0dff4;
+  --color-text-dark: #1a1824;
+  --color-primary: #ec6f92;
+  --color-secondary: #9dcfd9;
+}
+
+.highlight-text {
+  display: inline-block;
+  color: var(--color-primary);
+}
+
+.pt-mono-regular {
+  font-family: "PT Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pt-mono-bold {
+  font-family: "PT Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
