@@ -6,9 +6,6 @@ export const StyledNavbar = styled.div`
   color: var(--color-text-light);
   display: flex;
   justify-content: space-between;
-  font-family: "Doppio One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
 `;
 
 export const NavbarLogo = styled.img`

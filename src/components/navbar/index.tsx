@@ -9,8 +9,8 @@ import { HiTranslate } from "react-icons/hi";
 
 export default function Navbar() {
   return (
-    <StyledNavbar>
-      <NavbarLogo src="./LOGO.png" />
+    <StyledNavbar className="doppio-one-regular">
+      <NavbarLogo src="./alpha_logo.png" />
       <NavbarMenu>
         <MenuItem>HOME</MenuItem>
         <MenuDivider />

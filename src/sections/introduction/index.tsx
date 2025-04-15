@@ -24,7 +24,7 @@ import Ticker from "../../components/ticker";
 export default function IntroductionSection() {
   return (
     <>
-      <IntroductionSectionContainer>
+      <IntroductionSectionContainer className="bebas-neue-regular">
         <HeaderContent>
           <LeftHeaderContent>
             <Title>

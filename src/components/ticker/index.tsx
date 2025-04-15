@@ -56,11 +56,7 @@ export default function Ticker() {
 
   return (
     <TickerContainer className="pt-mono-bold">
-      <TickerMessages
-        ref={tickerRef}
-        animationDuration={animationDuration}
-        textWidth={textWidth}
-      >
+      <TickerMessages ref={tickerRef} animationDuration={animationDuration}>
         {currentMessage}
       </TickerMessages>
     </TickerContainer>

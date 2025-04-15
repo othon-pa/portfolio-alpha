@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e698d9fb-6572-44d9-abf7-d669777732b9",
+    "projectName": "ALPHA",
+    "description": "This is my portfolio and my personal page. I will experiment with this and try to always keep it updated for you to see what I'm doing next.",
+    "githubUrl": "https://github.com/othon-pa/portfolio-alpha",
+    "demoUrl": null,
+    "refImage": "",
+    "logo": "alpha_logo.png"
+  },
+  {
+    "id": "221e2712-f5be-42cf-ad40-eebfb22cb069",
+    "projectName": "SYNCIA",
+    "description": "This is a project where I'll be putting all my generic utilities. Hope to have this available soon. (I just started building stuff 😁)",
+    "githubUrl": null,
+    "demoUrl": null,
+    "refImage": "",
+    "logo": "syncia_logo.png"
+  }
+]

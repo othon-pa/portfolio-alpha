@@ -18,7 +18,6 @@ export const TickerContainer = styled.div`
 
 export const TickerMessages = styled.div<{
   animationDuration: number;
-  textWidth: number;
 }>`
   display: flex;
   flex-direction: row;

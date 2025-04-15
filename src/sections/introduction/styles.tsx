@@ -4,9 +4,6 @@ export const IntroductionSectionContainer = styled.div`
   display: flex;
   flex-direction: column;
   max-width: min(100%, 1900px);
-  font-family: "Bebas Neue", sans-serif;
-  font-weight: 400;
-  font-style: normal;
   margin: 0 auto;
   justify-content: space-between;
   min-height: calc(100vh - 100px);
