@@ -30,9 +30,8 @@ const FillContainer: React.FC<FillContainerProps> = ({
   const getSkillLevel = (fill: number) => {
     if (fill >= 90) return "Advanced";
     if (fill >= 70) return "Proficient";
-    if (fill >= 50) return "Intermediate";
-    if (fill >= 30) return "Learning";
-    return "Novice";
+    if (fill >= 40) return "Intermediate";
+    return "Learning";
   };
   return (
     <FillContainerWrapper

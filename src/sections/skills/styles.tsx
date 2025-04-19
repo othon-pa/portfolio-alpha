@@ -23,7 +23,7 @@ export const SkillsContainerWrapper = styled.div`
     var(--color-primary),
     var(--color-secondary)
   );
-  height: calc(100vh - 200px);
+  height: calc(100vh - 300px);
   position: relative;
 `;
 

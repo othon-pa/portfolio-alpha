@@ -1,11 +1,38 @@
 [
   {
-    "text": "Hello dear User! It's nice to have you. Please enjoy your stay here."
+    "text": "Hello! It's nice to have you. Please enjoy your stay here."
   },
   {
     "text": "Let me give you some useful information about my creator 🙌"
   },
   {
     "text": "With more than 7 years in the development world Othon Parra, now working as a Front-end developer is someone definitely passionate about knowledge and creativity."
+  },
+  {
+    "text": "Some of the tools he uses on his daily work are pretty interesting."
+  },
+  {
+    "text": "Frontend 💻"
+  },
+  {
+    "text": "ReactJS, TypeScript, JavaScript, HTML, CSS, SCSS, Material UI, Styled Components, React Query, Vite"
+  },
+  {
+    "text": "Testing 🪲"
+  },
+  {
+    "text": "Jest, React Testing Library, Vitest"
+  },
+  {
+    "text": "Tools & Practices 🔨"
+  },
+  {
+    "text": "Git, Agile/Scrum, ESLint"
+  },
+  {
+    "text": "And much more 🤓"
+  },
+  {
+    "text": "In the future I want to be able to talk with you and solve all the questions you may have."
   }
 ]

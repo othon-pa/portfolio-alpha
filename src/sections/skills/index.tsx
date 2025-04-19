@@ -6,6 +6,7 @@ import {
   Title,
 } from "./styles";
 import FillContainer from "../../components/fill-container";
+import techStack from "../../data/tech-stack.json";
 
 export default function SkillsSection() {
   return (
@@ -14,11 +15,11 @@ export default function SkillsSection() {
       <SkillsContainerWrapper>
         <SkillsBackground>
           <SkillsContainer className="bebas-neue-regular">
-            <FillContainer fill={70}>Typescript</FillContainer>
-            <FillContainer fill={30}>Typescript</FillContainer>
-            <FillContainer fill={10}>Typescript</FillContainer>
-            <FillContainer fill={90}>Typescript</FillContainer>
-            <FillContainer fill={100}>Typescript</FillContainer>
+            {techStack.map((item) => (
+              <FillContainer key={item.name} fill={item.percent}>
+                {item.name}
+              </FillContainer>
+            ))}
           </SkillsContainer>
         </SkillsBackground>
       </SkillsContainerWrapper>

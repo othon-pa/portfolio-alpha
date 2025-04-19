@@ -9,6 +9,7 @@ export const ProjectsSectionContainer = styled.div`
   background-repeat: no-repeat;
   background-position-x: center;
   padding: 50px 20px 0 40px;
+  background-color: var(--color-bg);
 `;
 
 export const Title = styled.div`

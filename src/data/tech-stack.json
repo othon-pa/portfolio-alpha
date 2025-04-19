@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ReactJS",
+    "percent": 90
+  },
+  {
+    "name": "Typescript",
+    "percent": 90
+  },
+  {
+    "name": "JavaScript",
+    "percent": 90
+  },
+  {
+    "name": "HTML",
+    "percent": 90
+  },
+  {
+    "name": "Git",
+    "percent": 70
+  },
+  {
+    "name": "CSS",
+    "percent": 70
+  },
+  {
+    "name": "Sass",
+    "percent": 70
+  },
+  {
+    "name": "Styled Components",
+    "percent": 70
+  },
+  {
+    "name": "NodeJS",
+    "percent": 50
+  },
+  {
+    "name": "Figma",
+    "percent": 50
+  },
+  {
+    "name": "ExpressJS",
+    "percent": 50
+  },
+  {
+    "name": "Jest",
+    "percent": 50
+  },
+  {
+    "name": "Vitest",
+    "percent": 50
+  },
+  {
+    "name": "React Testing Library",
+    "percent": 50
+  },
+  {
+    "name": "React Query",
+    "percent": 50
+  },
+  {
+    "name": "NextJS",
+    "percent": 40
+  },
+  {
+    "name": "Redux",
+    "percent": 30
+  },
+  {
+    "name": "Tailwind CSS",
+    "percent": 10
+  }
+]

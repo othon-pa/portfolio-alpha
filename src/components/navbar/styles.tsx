@@ -38,3 +38,40 @@ export const MenuDivider = styled.div`
   height: 50px;
   border-left: 2px solid var(--color-text-light);
 `;
+
+export const JobSection = styled.div`
+  padding: 20px;
+  border: 1px solid var(--color-bg);
+  border-radius: 10px;
+  margin-bottom: 10px;
+`;
+export const JobPosition = styled.div`
+  font-size: 30px;
+  font-weight: 700;
+`;
+export const JobDate = styled.div`
+  font-size: 26px;
+  background-color: var(--color-bg);
+  color: var(--color-text-light);
+  width: fit-content;
+  padding: 0 15px;
+  border-radius: 20px;
+  line-height: 35px;
+`;
+export const JobDescription = styled.div`
+  font-size: 22px;
+  margin-left: 5px;
+`;
+
+export const ContactTitle = styled.div`
+  font-size: 50px;
+  margin-left: 5px;
+`;
+export const ContactSubtitle = styled.div`
+  font-size: 30px;
+  margin-left: 5px;
+`;
+export const ContactText = styled.div`
+  font-size: 24px;
+  margin-left: 5px;
+`;
