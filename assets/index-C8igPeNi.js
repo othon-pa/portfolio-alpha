@@ -338,7 +338,7 @@ body {
   margin: 0 auto;
   min-height: calc(100vh);
   max-width: min(100%, 1900px);
-  background-image: url(/projects-background3.png);
+  background-image: url(${"/portfolio-alpha/"}projects-background3.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position-x: center;
