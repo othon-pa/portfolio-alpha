@@ -32,7 +32,7 @@ export default function DetailsView({
   return (
     <DetailsViewContainer background={refImage} className="doppio-one-regular">
       <DetailsViewHeader>
-        <AppLogo src={`/${logo}`} />
+        <AppLogo src={`${import.meta.env.BASE_URL}${logo}`} />
         <DetailsViewInfo>
           <AppName className="bebas-neue-regular">{projectName}</AppName>
           <AppLinks>

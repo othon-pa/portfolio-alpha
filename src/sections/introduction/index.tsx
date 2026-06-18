@@ -59,7 +59,7 @@ export default function IntroductionSection() {
             <Console />
           </LeftContent>
           <RightContent>
-            <Avatar src="/PERSON2.png" />
+            <Avatar src={`${import.meta.env.BASE_URL}/PERSON2.png`} />
           </RightContent>
         </BodyContent>
         <FooterContent>

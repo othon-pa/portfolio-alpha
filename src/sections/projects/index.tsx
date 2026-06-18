@@ -32,7 +32,7 @@ export default function ProjectsSection() {
             <ProjectsContainer>
               {projects.map(({ id, githubUrl, demoUrl, logo }) => (
                 <Project onClick={() => openDetails(id)}>
-                  <ProjectLogo src={`/${logo}`} />
+                  <ProjectLogo src={`${import.meta.env.BASE_URL}${logo}`} />
                   <ProjectLinks>
                     {githubUrl && (
                       <ProjectLink onClick={() => openLink(githubUrl)}>
