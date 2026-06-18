@@ -21,9 +21,8 @@ const FillContainer: React.FC<FillContainerProps> = ({
   const [hovered, setHovered] = useState(false);
   const handleHover = (
     e: React.MouseEvent<HTMLDivElement, MouseEvent>,
-    status: boolean
+    status: boolean,
   ) => {
-    console.log("Hover status:", status);
     setHovered(status);
   };
 
